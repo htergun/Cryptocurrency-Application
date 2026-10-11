@@ -1,4 +1,4 @@
-Cryptocurrency Tracking Application
+Cryptocurrency Application
 
 Developed a native Android cryptocurrency tracking application using Kotlin, focusing on software architecture, clean code, and maintainable application design.
 
