@@ -131,7 +131,7 @@
                     android:letterSpacing="0.03"
                     android:outlineSpotShadowColor="#806A6CFF"
                     android:stateListAnimator="@null"
-                    android:text="SIGN UP"
+                    android:text="Sign Up"
                     android:textAllCaps="false"
                     android:textColor="#FFFFFF"
                     android:textSize="18sp"
