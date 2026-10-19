@@ -1,10 +1,9 @@
-Cryptocurrency Application
+## Cryptocurrency Application
 
 Developed a native Android cryptocurrency tracking application using Kotlin, focusing on software architecture, clean code, and maintainable application design.
 
-Implemented the MVVM (Model-View-ViewModel) architecture to ensure separation of concerns and maintainable code structure.
-Integrated external REST APIs to retrieve real-time cryptocurrency price data.
-Implemented data parsing and local caching strategies for efficient data management.
-Designed modular and reusable UI components to support dynamic data updates and responsive performance.
+- Implemented the MVVM (Model-View-ViewModel) architecture to ensure separation of concerns and maintainable code structure.
+- Organized application logic into structured and reusable components to improve code readability and maintainability.
+- Designed modular and reusable UI components to provide a consistent and user-friendly mobile application experience.
 
-Technologies: Kotlin, Git, MVVM, REST APIs, Software Architecture
+**Technologies:** Kotlin, Git, MVVM, Software Architecture
